@@ -18,4 +18,4 @@ m = 1
 for i in range(0,len(a)):
     m *= (a[i]**b[i])
 
-print(m)
+print( "The smallest positive number is:",m)
